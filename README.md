@@ -3,9 +3,9 @@
 - 🤔 &nbsp; Exploring new technologies
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Java Developer
-- ✍️ &nbsp; Watching sports and trying out latest design trends. 
+- ✍️ &nbsp; Learn new things and execute in the profession 
 - 😴 &nbsp; I belive, a perfect nap can be the ultimate solution for any stress.
-- - 📫 How to reach me: sivarajpauldurai@gmail.com
+- - 📫 How to reach me: abishekmahesh26@gmail.com
 - - ⚡ Fun fact: </> 
 
 <h3>🛠 Tech Stack</h3>
@@ -41,4 +41,4 @@
 &nbsp; <a href="mailto:abishekmahesh26@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [kumawatlalit912](https://github.com/kumawatlalit912)
+⭐️ From [Abishek.M](https://github.com/Abi8697)
